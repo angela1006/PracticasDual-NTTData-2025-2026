@@ -6,8 +6,8 @@
 ---
 
 ## Enlaces a la Presentación y Recursos
-* **Vídeo de la Defensa Individual - Ángela Mora Mata:** [Ver Presentación en Vídeo](AQUÍ_PEGA_EL_ENLACE_A_TU_VÍDEO)
-* **Documento de Soporte (Diapositivas):** [Ver PDF de la Presentación](Dual_NTT_Data_2.pdf)
+* **Vídeo de la Defensa Individual - Ángela Mora Mata:** [Ver Presentación en Vídeo](https://youtu.be/ctv5ak0lp2k)
+* **Documento de Soporte (Diapositivas):** [Ver PDF de la Presentación](Dual%20NTT%20Data.pdf)
 
 ---
 
